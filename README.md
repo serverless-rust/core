@@ -1,0 +1,2 @@
+# core
+Serverless rust core
